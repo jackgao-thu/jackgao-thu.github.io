@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Involved in attention functions and memoral theory research in Department of Electronic Engineering in Tsinghua University, aimed at publishing on colm on March 22th, 2024.
